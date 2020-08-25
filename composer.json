@@ -3,6 +3,7 @@
 	"description": "Small alk with hexlet",
 	"keywords": ["hexlet", "php", "composer"],
 	"license": "MIT",
+	"minimum-stability": "dev",
     "authors": [
         {
             "name": "Gnaddi",
