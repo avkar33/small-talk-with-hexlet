@@ -1,0 +1,17 @@
+{
+	"name": "user/small-talk-with-hexlet",
+	"description": "Small alk with hexlet",
+	"keywords": ["hexlet", "php", "composer"],
+	"license": "MIT",
+    "authors": [
+        {
+            "name": "Gnaddi",
+            "email": "kmi3342@tuta.io"
+        }
+	],
+	"bin": [
+		"./sayHi.php",
+		"./sayBye.php"
+	],
+    "require": {}
+}
